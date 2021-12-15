@@ -13,33 +13,8 @@ At the time of this writing, the trading bot supports the following crypto excha
 * [KuCoin](https://www.kucoin.com/?rcode=KJ6stw)
 * [crypto.com](https://crypto.com/exch/rf3v8ucd4k)
 
-### Setup
-
-You will need [Go](https://golang.org/dl/) installed and `GOPATH` configured.
-
-```bash
-mkdir -p $GOPATH/src/github.com/svanas
-cd $GOPATH/src/github.com/svanas
-git clone git@github.com:svanas/nefertiti.git
-```
-
-Verify that you've installed [Go](https://golang.org/dl/) by opening a command prompt and typing the following command:
-
-```bash
-go version
-```
-
-### Dependencies
-
-Most dependencies are vendored in with this repo. You might need to clone the following repositories:
-* go get https://github.com/svanas/go-coinbasepro
-* go get https://github.com/svanas/go-crypto-dot-com
-* go get https://github.com/svanas/go-mining-hamster
-
 ### Running
 
-```
-cd $GOPATH/src/github.com/lintrieu/nefertiti
-go build
-./nefertiti --help
-```
+* [Go](https://golang.org/dl/)
+* `go build`
+* `./nefertiti --help`
