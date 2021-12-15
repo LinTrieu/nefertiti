@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/svanas/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/flag"
 )
 
 const (

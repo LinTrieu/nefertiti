@@ -12,16 +12,16 @@ import (
 	"time"
 
 	"github.com/alexflint/go-filemutex"
-	"github.com/svanas/nefertiti/aggregation"
-	exchange "github.com/svanas/nefertiti/bittrex"
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/flag"
-	"github.com/svanas/nefertiti/model"
-	"github.com/svanas/nefertiti/multiplier"
-	"github.com/svanas/nefertiti/notify"
-	"github.com/svanas/nefertiti/precision"
-	"github.com/svanas/nefertiti/pricing"
-	"github.com/svanas/nefertiti/session"
+	"github.com/lintrieu/nefertiti/aggregation"
+	exchange "github.com/lintrieu/nefertiti/bittrex"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/model"
+	"github.com/lintrieu/nefertiti/multiplier"
+	"github.com/lintrieu/nefertiti/notify"
+	"github.com/lintrieu/nefertiti/precision"
+	"github.com/lintrieu/nefertiti/pricing"
+	"github.com/lintrieu/nefertiti/session"
 )
 
 const (

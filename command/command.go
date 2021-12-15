@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/svanas/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/flag"
 )
 
 type CommandCallBack func(pc uintptr, file string, line int, err error)

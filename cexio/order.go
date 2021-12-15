@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/svanas/nefertiti/empty"
+	"github.com/lintrieu/nefertiti/empty"
 )
 
 type Side int

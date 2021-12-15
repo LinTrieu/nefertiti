@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
+	"github.com/lintrieu/nefertiti/command"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/flag"
 	"github.com/mitchellh/cli"
-	"github.com/svanas/nefertiti/command"
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/flag"
 )
 
 var (

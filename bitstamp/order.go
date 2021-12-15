@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/svanas/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/errors"
 )
 
 type Order struct {

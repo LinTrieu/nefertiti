@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/svanas/nefertiti/multiplier"
+	"github.com/lintrieu/nefertiti/multiplier"
 )
 
 func Multiply(price float64, mult multiplier.Mult, prec int) float64 {

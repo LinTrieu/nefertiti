@@ -7,10 +7,10 @@ import (
 	"sort"
 	"time"
 
-	"github.com/svanas/nefertiti/ethplorer"
-	"github.com/svanas/nefertiti/flag"
-	"github.com/svanas/nefertiti/model"
-	"github.com/svanas/nefertiti/passphrase"
+	"github.com/lintrieu/nefertiti/ethplorer"
+	"github.com/lintrieu/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/model"
+	"github.com/lintrieu/nefertiti/passphrase"
 )
 
 type signal struct {

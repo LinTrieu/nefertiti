@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/precision"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/precision"
 )
 
 type (

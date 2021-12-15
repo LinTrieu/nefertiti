@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/exchanges"
-	"github.com/svanas/nefertiti/flag"
-	"github.com/svanas/nefertiti/model"
-	"github.com/svanas/nefertiti/multiplier"
-	"github.com/svanas/nefertiti/pricing"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/exchanges"
+	"github.com/lintrieu/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/model"
+	"github.com/lintrieu/nefertiti/multiplier"
+	"github.com/lintrieu/nefertiti/pricing"
 )
 
 type (

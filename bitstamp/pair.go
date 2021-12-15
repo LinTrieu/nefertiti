@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/svanas/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/errors"
 )
 
 type Pair struct {

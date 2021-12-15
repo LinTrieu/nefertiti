@@ -1,6 +1,6 @@
 package model
 
-import "github.com/svanas/nefertiti/precision"
+import "github.com/lintrieu/nefertiti/precision"
 
 type Stats struct {
 	Market    string

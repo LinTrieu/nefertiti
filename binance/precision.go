@@ -8,7 +8,7 @@ import (
 	"time"
 
 	exchange "github.com/adshao/go-binance/v2"
-	"github.com/svanas/nefertiti/precision"
+	"github.com/lintrieu/nefertiti/precision"
 )
 
 type (

@@ -3,7 +3,7 @@ package model
 import (
 	"strings"
 
-	"github.com/svanas/nefertiti/multiplier"
+	"github.com/lintrieu/nefertiti/multiplier"
 )
 
 type Permission int

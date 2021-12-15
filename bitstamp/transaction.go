@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/svanas/nefertiti/empty"
-	"github.com/svanas/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/empty"
+	"github.com/lintrieu/nefertiti/errors"
 )
 
 type (

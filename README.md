@@ -39,7 +39,7 @@ Most dependencies are vendored in with this repo. You might need to clone the fo
 ### Running
 
 ```
-cd $GOPATH/src/github.com/svanas/nefertiti
+cd $GOPATH/src/github.com/lintrieu/nefertiti
 go build
 ./nefertiti --help
 ```

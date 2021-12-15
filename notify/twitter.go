@@ -3,9 +3,9 @@ package notify
 import (
 	"github.com/dghubble/go-twitter/twitter"
 	"github.com/dghubble/oauth1"
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/flag"
-	"github.com/svanas/nefertiti/passphrase"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/passphrase"
 )
 
 type TwitterKeys struct {

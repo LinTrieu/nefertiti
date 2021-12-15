@@ -3,7 +3,7 @@ package flag
 import (
 	"strconv"
 
-	"github.com/svanas/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/errors"
 )
 
 // --dca (aka dollar-cost-averaging)

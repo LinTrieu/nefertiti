@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/flag"
 )
 
 type (

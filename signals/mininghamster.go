@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/model"
+	"github.com/lintrieu/nefertiti/passphrase"
 	mininghamster "github.com/svanas/go-mining-hamster"
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/flag"
-	"github.com/svanas/nefertiti/model"
-	"github.com/svanas/nefertiti/passphrase"
 )
 
 type MiningHamster struct {

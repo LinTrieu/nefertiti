@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/svanas/nefertiti/errors"
-	"github.com/svanas/nefertiti/flag"
-	"github.com/svanas/nefertiti/multiplier"
-	"github.com/svanas/nefertiti/precision"
+	"github.com/lintrieu/nefertiti/errors"
+	"github.com/lintrieu/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/multiplier"
+	"github.com/lintrieu/nefertiti/precision"
 )
 
 type Market struct {

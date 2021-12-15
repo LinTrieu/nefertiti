@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/svanas/nefertiti/exchanges"
+	"github.com/lintrieu/nefertiti/exchanges"
 )
 
 type (

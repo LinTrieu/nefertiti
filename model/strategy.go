@@ -3,7 +3,7 @@ package model
 import (
 	"fmt"
 
-	"github.com/svanas/nefertiti/flag"
+	"github.com/lintrieu/nefertiti/flag"
 )
 
 type Strategy int
